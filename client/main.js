@@ -1,7 +1,5 @@
-import { ReactiveVar } from 'meteor/reactive-var';
-
-import React from 'react';
-import { render } from 'react-dom';
+// import React from 'react';
+// import { render } from 'react-dom';
 
 // import style from './main.css';
 // console.log('client/main', style);
